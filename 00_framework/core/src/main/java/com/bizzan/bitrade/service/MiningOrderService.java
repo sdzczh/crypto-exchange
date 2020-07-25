@@ -10,7 +10,6 @@ import org.springframework.data.domain.Sort;
 import org.springframework.stereotype.Service;
 
 import com.bizzan.bitrade.dao.MiningOrderDao;
-import com.bizzan.bitrade.entity.Activity;
 import com.bizzan.bitrade.entity.MiningOrder;
 import com.bizzan.bitrade.pagination.Criteria;
 import com.bizzan.bitrade.pagination.Restrictions;
