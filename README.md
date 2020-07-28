@@ -54,7 +54,6 @@
 
 └─———wallet      钱包资产管理，负责与RPC对接 
 
-
  **01_wallet_rpc** 
 
 └─———act
